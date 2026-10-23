@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://goktugburak.github.io/mavi-firin-odevi/sitemap.xml
